@@ -1,0 +1,25 @@
+{
+  "name": "week-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./src",
+    "test:watch": "jest --watch ./src",
+    "test:ci": "jest --runInBand ./src"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.54",
+    "@babel/preset-env": "^7.0.0-beta.54",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^22.4.4",
+    "jest": "^22.4.4",
+    "regenerator-runtime": "^0.11.1"
+  },
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost/"
+  }
+}
