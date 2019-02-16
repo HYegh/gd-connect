@@ -1,9 +1,3 @@
-# Homework 4
-
-## Setup
-
-To run tests locally refer to [setup](SETUP.md) guide.
-
 # Connect
 
 Compute the result for a game of Hex / Polygon.
