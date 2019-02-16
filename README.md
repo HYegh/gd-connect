@@ -39,7 +39,3 @@ This exercise has two files:
 
 The first file is where you will write your code.
 The second is file you never change.
-
-## Submit
-
-To submit your homework follow this [submition](SUBMIT.md) guide.
